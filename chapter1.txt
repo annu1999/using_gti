@@ -1,1 +1,1 @@
-This second chapter of using git directory.
+This second chapter of using git directory,Git is very important for developers.

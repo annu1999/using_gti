@@ -1,1 +1,1 @@
-This is my third chapter of using git directory.
+This is my third chapter of using git directory.I make some chnages in my secon chapter.
